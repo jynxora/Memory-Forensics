@@ -27,8 +27,8 @@ This investigation was conducted as part of my ongoing **#700DaysOfSkill** serie
 
 ## 📎 Files Included
 
-- `investigatingMemoryImage.pdf` – Final Report [PDF]
-- `investigatingMemoryImage.md` – Final Report [Mark Down]
+- Final Report [PDF]: [📝](.investigatingMemoryImage.pdf)
+- Final Report [Mark Down]: [✍️](.investigatingMemoryImage.pdf)
 - Download PDF Report: 
 - CLI outputs + references
 
