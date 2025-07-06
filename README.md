@@ -49,7 +49,6 @@ Please use tools like Volatility only on legally acquired images or labs. This a
 
 ---
 
-## 📅 Day: 6 of 700  
 A small step in a long road to mastery.
 
 ---
