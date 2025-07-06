@@ -27,9 +27,9 @@ This investigation was conducted as part of my ongoing **#700DaysOfSkill** serie
 
 ## 📎 Files Included
 
-- Final Report: [📋PDF](https://github.com/jynxora/Memory-Forensics/blob/main/investigatingMemoryImage.pdf)
-- Final Report: [📑Mark-Down](https://github.com/jynxora/Memory-Forensics/blob/main/investigatingMemoryImage.md)
-- Download PDF Report: [Download⬇️](https://github.com/jynxora/Memory-Forensics/raw/main/investigatingMemoryImage.pdf)
+- Final Report: [📋PDF](https://github.com/jynxora/Memory-Forensics/blob/main/MemoryImageReport.pdf)
+- Final Report: [📑Mark-Down](https://github.com/jynxora/Memory-Forensics/blob/main/MemoryImageReport.md)
+- Download PDF Report: [Download⬇️](https://github.com/jynxora/Memory-Forensics/raw/main/MemoryImageReport.pdf)
 
 ---
 
