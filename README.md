@@ -21,7 +21,7 @@ This investigation was conducted as part of my ongoing **#700DaysOfSkill** serie
 - 🐍 Volatility 2.6.1
 - 🧠 Challenge.raw (1.6 GB memory dump)
 - 📖 Kali Linux on VMware
-- 📝 Notion + Markdown for documentation
+- 📝 PDF + Markdown for documentation
 
 ---
 
