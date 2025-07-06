@@ -51,6 +51,4 @@ Please use tools like Volatility only on legally acquired images or labs. This a
 
 A small step in a long road to mastery.
 
----
-
 > **Note:** If you're learning DFIR and forensics, feel free to fork this repo, reuse the structure, and improve it further.
