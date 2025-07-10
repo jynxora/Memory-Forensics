@@ -1,4 +1,4 @@
-# Windows Memory Image Forensics — [Day 6]
+# Windows Memory Image Forensics
 
 This repository contains a step-by-step breakdown of my memory analysis workflow using **Volatility 2.6.1** on a Windows 7 64-bit memory image (`Challenge.raw`).  
 This investigation was conducted as part of my ongoing **#700DaysOfSkill** series focusing on **DFIR (Digital Forensics and Incident Response)**, Cybersecurity, and Quantum Cryptography.
@@ -51,3 +51,4 @@ Please use tools like Volatility only on legally acquired images or labs. This a
 A small step in a long road to mastery.
 
 > **Note:** If you're learning DFIR and forensics, feel free to fork this repo, reuse the structure, and improve it further.
+#700DaysOfSkill
